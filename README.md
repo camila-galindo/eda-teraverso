@@ -14,7 +14,7 @@ Seeing the new generation of consoles (Nintendo Switch, Playstation 5 and XBOX S
 Apply knowledge of manipulation, cleaning and analysis of a data set in an Exploratory Analysis, starting from raw data and an initial objective to guide business decision-making.
 ## Steps 
 Throughout the work on this challenge, you will go through the main components of Exploratory Data Analysis:
-- Understanding the Dataset and its context;
+- Understanding the Dataset;
 - Validation of data and understanding of the Dataset variables;
 - Data cleaning;
 - Analysis of relationships between variables;
